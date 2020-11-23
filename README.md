@@ -1,5 +1,17 @@
 # MinicursoR
-Arquivos e detalhes de minicursos apresentados
+Arquivos e detalhes de minicursos sobre o R
+
+CURSO 1 - INTRODUÇÃO AO R
+
+CURSO 2 - GRAFICOS FUNCIONAIS NO R
+
+CURSO 3 - ANALISE DE DADOS NO R
+
+CURSO 4 - GRAFICOS COM GGPLOT2
+
+CURSO 5 - DPLYR E SUAS FACILIDADE
+
+
 
 Este é um projeto para a divigação da tecnologia R, que é uma linguagem de programação e software 
 Minha primeira experiencia apresentando um minicurso está marcada para o dia 16/06/2020, até lá o arquivo modelo01 deve ser finalizado.
