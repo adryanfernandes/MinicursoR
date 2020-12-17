@@ -13,7 +13,8 @@ CURSO 5 - DPLYR E SUAS FACILIDADE
 
 
 
-Este é um projeto para a divigação da tecnologia R, que é uma linguagem de programação e software muito utilizado por estatisticos e matematicos.
+Este é um projeto para a divigação de conhecimentos sobre a tecnologia R, que é uma linguagem de programação e software muito utilizado por estatisticos e matematicos para a resolução de problemas computacionais, além de ter uma serie de ferramentas para integração comn outras liguagens, como sql, python, c# entre outras.
+Essa linguagem também tem varias ferramentas para auxiliar a interpretação de dados e visualização. isso e muito mais vãoser apresentados nos cursos elaborados por mim.
 Minha primeira experiencia apresentando um minicurso está marcada para o dia 16/06/2020, até lá o arquivo CURSO 1 deve ser finalizado.
 
 junto com essa apresentação temos um script com todos os códigos a serem expostos e explicados ponto a ponto, com comentarios e curiosidades, quando aplicaveis
