@@ -2,7 +2,7 @@
 Arquivos e detalhes de minicursos sobre o R
 
 CURSO 1 - INTRODUÇÃO AO R
-
+  Curso introdutorio para pessoas que unca tiveram contato com linguagem de programa, com estatistica ou mesmo com analise de dados. Este curso é recomendado para abrir o caminho entre o mundo da programação voltada para analise de dados.
 CURSO 2 - GRAFICOS FUNCIONAIS NO R
 
 CURSO 3 - ANALISE DE DADOS NO R
