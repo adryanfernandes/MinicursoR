@@ -5,11 +5,13 @@ CURSO 1 - INTRODUÇÃO AO R
   Curso introdutorio para pessoas que unca tiveram contato com linguagem de programa, com estatistica ou mesmo com analise de dados. Este curso é recomendado para abrir o caminho entre o mundo da programação voltada para analise de dados.
 CURSO 2 - GRAFICOS FUNCIONAIS NO R
 
-CURSO 3 - ANALISE DE DADOS NO R
+CURSO 3 - ANALISE, MANIPULAÇÃO E GESTÃO DE DADOS NO R
 
-CURSO 4 - GRAFICOS COM GGPLOT2
+CURSO 4 - GRAFICOS E MAPAS COM GGPLOT2
 
-CURSO 5 - DPLYR E SUAS FACILIDADE
+CURSO 5 - DPLYR APLICADOS A VIDA COTIDIANA DE ANALISE DE DADOS
+
+CUSRO 6 - r NO MERCADO FINANCEIRO
 
 
 
